@@ -41,8 +41,8 @@
 			<dict>
 				<key>Comment</key>
 				<string>SSDT-SBUS-MCHC.aml</string>
-				<key>Disabled</key>
-				<true/>
+				<key>Enabled</key>
+				<false/>
 				<key>Path</key>
 				<string>SSDT-SBUS-MCHC.aml</string>
 			</dict>
@@ -561,7 +561,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BrcmFirmwareData.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmFirmwareData</string>
 				<key>MaxKernel</key>
@@ -579,7 +579,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BrcmPatchRAM3.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>MaxKernel</key>
@@ -597,7 +597,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BlueToolFixup.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BlueToolFixup</string>
 				<key>MaxKernel</key>
@@ -669,7 +669,7 @@
 				<key>Comment</key>
 				<string>V2.1.9 | AirportBrcmFixup.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportBrcmFixup</string>
 				<key>MaxKernel</key>
@@ -705,7 +705,7 @@
 				<key>Comment</key>
 				<string>V1.0 | AirPortBrcmNIC_Injector.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -1370,7 +1370,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -wegnoigpu -radcodec shikigva=128 amfi=0x80 agdpmod=pikera -btlfxbeta</string>
+				<string>-v keepsyms=1 debug=0x100 -wegnoigpu -radcodec shikigva=128 amfi=0x80 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AwgAAA==</data>
 				<key>prev-lang:kbd</key>
