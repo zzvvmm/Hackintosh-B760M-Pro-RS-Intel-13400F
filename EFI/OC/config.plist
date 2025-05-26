@@ -469,9 +469,9 @@
 				<key>BundlePath</key>
 				<string>CPUFriend.kext</string>
 				<key>Comment</key>
-				<string>V1.2.9</string>
+				<string>V1.2.7</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CPUFriend</string>
 				<key>MaxKernel</key>
@@ -487,9 +487,9 @@
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
 				<key>Comment</key>
-				<string>V1.0.1</string>
+				<string>V1.0.0</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -561,7 +561,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BrcmFirmwareData.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmFirmwareData</string>
 				<key>MaxKernel</key>
@@ -579,7 +579,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BrcmPatchRAM3.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>MaxKernel</key>
@@ -597,7 +597,7 @@
 				<key>Comment</key>
 				<string>V2.7.0 | BlueToolFixup.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/BlueToolFixup</string>
 				<key>MaxKernel</key>
@@ -615,7 +615,7 @@
 				<key>Comment</key>
 				<string>V1.0 | IOSkywalkFamily.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IOSkywalkFamily</string>
 				<key>MaxKernel</key>
@@ -633,7 +633,7 @@
 				<key>Comment</key>
 				<string>V1200.12.2b1 | IO80211FamilyLegacy.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IO80211FamilyLegacy</string>
 				<key>MaxKernel</key>
@@ -651,7 +651,7 @@
 				<key>Comment</key>
 				<string>V1400.1.1 | AirPortBrcmNIC.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirPortBrcmNIC</string>
 				<key>MaxKernel</key>
@@ -669,7 +669,7 @@
 				<key>Comment</key>
 				<string>V2.1.9 | AirportBrcmFixup.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportBrcmFixup</string>
 				<key>MaxKernel</key>
@@ -705,7 +705,7 @@
 				<key>Comment</key>
 				<string>V1.0 | AirPortBrcmNIC_Injector.kext</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -759,7 +759,7 @@
 				<key>Comment</key>
 				<string>V2.0.2 | CpuTopologyRebuild.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CpuTopologyRebuild</string>
 				<key>MaxKernel</key>
@@ -1123,7 +1123,7 @@
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
-			<true/>
+			<false/>
 			<key>CustomPciSerialDevice</key>
 			<false/>
 			<key>CustomSMBIOSGuid</key>
